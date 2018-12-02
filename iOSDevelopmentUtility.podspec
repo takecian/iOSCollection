@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint iOSDevelopmentUtility.podspec' to ensure this is a
+# Be sure to run `pod lib lint DevelopmentUtility.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'iOSDevelopmentUtility'
+  s.name             = 'DevelopmentUtility'
   s.version          = '1.0.0'
   s.summary          = 'Set of utility for iOS app developemt.'
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-iOSDevelopmentUtility is a set of utility that helps you develop effeciently.
+DevelopmentUtility is a set of utility that helps you develop effeciently.
                        DESC
 
   s.homepage         = 'https://github.com/takecian/iOSDevelopmentUtility'
@@ -31,10 +31,10 @@ iOSDevelopmentUtility is a set of utility that helps you develop effeciently.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'iOSDevelopmentUtility/**/*.{swift}'
+  s.source_files = 'DevelopmentUtility/**/*.{swift}'
 
   # s.resource_bundles = {
-  #   'iOSDevelopmentUtility' => ['iOSDevelopmentUtility/Assets/*.png']
+  #   'DevelopmentUtility' => ['DevelopmentUtility/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

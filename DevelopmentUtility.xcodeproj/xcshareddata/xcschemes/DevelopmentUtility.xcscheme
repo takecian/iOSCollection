@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6173B4CA21B3B9F200C089DF"
-               BuildableName = "iOSDevelopmentUtility.framework"
-               BlueprintName = "iOSDevelopmentUtility"
-               ReferencedContainer = "container:iOSDevelopmentUtility.xcodeproj">
+               BuildableName = "DevelopmentUtility.framework"
+               BlueprintName = "DevelopmentUtility"
+               ReferencedContainer = "container:DevelopmentUtility.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6173B4D321B3B9F200C089DF"
-               BuildableName = "iOSDevelopmentUtilityTests.xctest"
-               BlueprintName = "iOSDevelopmentUtilityTests"
-               ReferencedContainer = "container:iOSDevelopmentUtility.xcodeproj">
+               BuildableName = "DevelopmentUtilityTests.xctest"
+               BlueprintName = "DevelopmentUtilityTests"
+               ReferencedContainer = "container:DevelopmentUtility.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6173B4CA21B3B9F200C089DF"
-            BuildableName = "iOSDevelopmentUtility.framework"
-            BlueprintName = "iOSDevelopmentUtility"
-            ReferencedContainer = "container:iOSDevelopmentUtility.xcodeproj">
+            BuildableName = "DevelopmentUtility.framework"
+            BlueprintName = "DevelopmentUtility"
+            ReferencedContainer = "container:DevelopmentUtility.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6173B4CA21B3B9F200C089DF"
-            BuildableName = "iOSDevelopmentUtility.framework"
-            BlueprintName = "iOSDevelopmentUtility"
-            ReferencedContainer = "container:iOSDevelopmentUtility.xcodeproj">
+            BuildableName = "DevelopmentUtility.framework"
+            BlueprintName = "DevelopmentUtility"
+            ReferencedContainer = "container:DevelopmentUtility.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -83,9 +83,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6173B4CA21B3B9F200C089DF"
-            BuildableName = "iOSDevelopmentUtility.framework"
-            BlueprintName = "iOSDevelopmentUtility"
-            ReferencedContainer = "container:iOSDevelopmentUtility.xcodeproj">
+            BuildableName = "DevelopmentUtility.framework"
+            BlueprintName = "DevelopmentUtility"
+            ReferencedContainer = "container:DevelopmentUtility.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
