@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:iOSCollection.xcodeproj">
+      location = "self:/Users/takecian/Development/iOS/iOSCollection/iOSDevelopmentUtility.xcodeproj">
    </FileRef>
 </Workspace>
