@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		610C19EC21D516070031718A /* StoryboardInitializable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610C19EB21D516070031718A /* StoryboardInitializable.swift */; };
 		6173B4D521B3B9F200C089DF /* DevelopmentUtility.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6173B4CB21B3B9F200C089DF /* DevelopmentUtility.framework */; };
 		6173B4DA21B3B9F200C089DF /* iOSCollectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6173B4D921B3B9F200C089DF /* iOSCollectionTests.swift */; };
 		6173B4DC21B3B9F200C089DF /* iOSCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = 6173B4CE21B3B9F200C089DF /* iOSCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -30,6 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		610C19EB21D516070031718A /* StoryboardInitializable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryboardInitializable.swift; sourceTree = "<group>"; };
 		6173B4CB21B3B9F200C089DF /* DevelopmentUtility.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DevelopmentUtility.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6173B4CE21B3B9F200C089DF /* iOSCollection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOSCollection.h; sourceTree = "<group>"; };
 		6173B4CF21B3B9F200C089DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				6173B4EC21B3C27500C089DF /* ReusableView.swift */,
 				6173B4ED21B3C27500C089DF /* UICollectionView+Register.swift */,
 				6173B4EE21B3C27500C089DF /* UITableView+Register.swift */,
+				610C19EB21D516070031718A /* StoryboardInitializable.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 			files = (
 				6173B4F321B3C27500C089DF /* UITableView+Register.swift in Sources */,
 				6173B4F121B3C27500C089DF /* ReusableView.swift in Sources */,
+				610C19EC21D516070031718A /* StoryboardInitializable.swift in Sources */,
 				6173B4EF21B3C27500C089DF /* NibLoadableView.swift in Sources */,
 				6173B4F221B3C27500C089DF /* UICollectionView+Register.swift in Sources */,
 				6173B4F721B405DE00C089DF /* Logger.swift in Sources */,
