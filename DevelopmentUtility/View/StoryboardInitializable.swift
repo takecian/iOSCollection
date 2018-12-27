@@ -8,17 +8,17 @@
 
 import UIKit
 
-protocol StoryboardInitializable {
+public protocol StoryboardInitializable {
     static var storyboardIdentifier: String { get }
 }
 
-extension StoryboardInitializable where Self: UIViewController {
+public extension StoryboardInitializable where Self: UIViewController {
     
-    static var storyboardIdentifier: String {
+    public static var storyboardIdentifier: String {
         return String(describing: Self.self)
     }
     
-    static func initFromStoryboard(name: String = "Main") -> Self {
+    public static func initFromStoryboard(name: String = "Main") -> Self {
         let storyboard = UIStoryboard(name: name, bundle: Bundle(for: self))
         return storyboard.instantiateViewController(withIdentifier: storyboardIdentifier) as! Self
     }
